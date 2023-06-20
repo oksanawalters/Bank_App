@@ -1,5 +1,6 @@
 # Bank_App
-# Project Title: Bank Application
+# Project Title: 
+Bank Application
 
 # Description: 
 This project is a great example of a simple React App with easy logical functionality.
