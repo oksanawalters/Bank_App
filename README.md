@@ -2,7 +2,7 @@
 # Project Title: Bank Application
 
 # Description: 
-The reasons why this project exists, including the answers to pertinent questions such as whom does it help, why did you build it, and what business or personal problem does it solve.
+This project is a great example of a simple React App with easy logical functionality.
 
 # Installation Guidelines: 
 1. Clone the Repository: Open your terminal and navigate to the directory where you want to clone the repository. Use the following command to clone the repository:
@@ -24,9 +24,11 @@ Note: Make sure you have Node.js and npm installed on your machine before procee
 # Screenshots: 
 <img src= "bank.png"/>
 
-# Technology used: React, MongoDB, Express, Bootstrap, NodeJS.
+# Technology used: 
+React, MongoDB, Express, Bootstrap, NodeJS.
 
-# Features: Work in progress.
+# Features: 
+Work in progress.
 
 ## License Information
 [MIT](https://choosealicense.com/licenses/mit/)
